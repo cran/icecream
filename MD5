@@ -1,15 +1,15 @@
-adda66207ebe19c03a563ef5c5268017 *DESCRIPTION
+bce88a314622c43d0e78cf8c4aae0826 *DESCRIPTION
 924424be48778a283ab9de799c34ee79 *LICENSE
 d611543e2e60edf55394945a394397fd *NAMESPACE
-78ed7c0450972061cf68f4ea12b3ac1b *NEWS.md
+a79e30828d7b93cdac98a4bffe1c2e5d *NEWS.md
 4941b6e6eaae80daa2579381c4eb7f72 *R/autopeek.R
 c30fc7a2f54a059e0917648e3ccfad8b *R/ic.R
 d4ad24d54adbefc23749b12ec66971af *R/icecream-package.R
 a7400b2fc6e9875d706ae216ca486478 *R/peek.R
-d3fb9b5d13d2101bf5fc3ee5fcf32bd8 *R/print.R
+8e3cfd000825f08aaf2245402b58c0cd *R/print.R
 c3a4e68ed4133f90dc86652b270ca4bf *R/utils.R
 b8c15cd1e4e2c14b283281a3db2607c9 *R/zzz.R
-3e84fed81f34f518d7ec3239a02489e5 *README.md
+9e8588bdf32f84f7ccb822df3e20a8cf *README.md
 dbd0729e0f05f74cdc77bde063683472 *man/enable-disable.Rd
 6a0b77bb41b5c5011ead76848d12ef02 *man/figures/logo.svg
 eb087a0f50195b7f58d0ae64f99ed4f6 *man/ic-single-use.Rd
@@ -23,4 +23,4 @@ eead2ed0c4e600b79b5fee775a0d3458 *man/rlang-reexports.Rd
 8af39c3f5c4b8143382591e48bf5e233 *tests/testthat.R
 4604bf0225a9a61632b83f4f8f7d7bd1 *tests/testthat/setup-lists.R
 e706e4c576cdc50dc4fad2f657c6b817 *tests/testthat/test-autopeek-lists.R
-ab36d5dd0b8e58051893aad8fc56ee32 *tests/testthat/test-icecream.R
+49837597af165acd6644d6f5aee7f67f *tests/testthat/test-icecream.R

@@ -1,7 +1,7 @@
 Type: Package
 Package: icecream
 Title: Print Debugging Made Sweeter
-Version: 0.2.1
+Version: 0.2.2
 Authors@R: 
     c(person(given = "Lewin",
              family = "Appleton-Fox",
@@ -31,10 +31,10 @@ Encoding: UTF-8
 Language: en-GB
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-09-27 09:39:42 UTC; lewin
+Packaged: 2024-02-18 00:34:38 UTC; lewin
 Author: Lewin Appleton-Fox [aut, cre],
   Dominik Rafacz [aut] (<https://orcid.org/0000-0003-0925-1909>),
   Ben Stiles [ctb]
 Maintainer: Lewin Appleton-Fox <lewin.a.f@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-09-27 09:50:02 UTC
+Date/Publication: 2024-02-18 00:50:03 UTC
